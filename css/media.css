@@ -1,0 +1,342 @@
+@media only screen and (min-width: 320px) and (max-width: 575px) {
+
+/*------- Common CSS Starts -------*/
+
+.container-fluid { padding: 20px 15px; }
+.section-heading > h2 { font-size: 2.7rem; margin-bottom: 20px; }
+p { font-size: 1.6rem; text-align: justify; }
+
+/*------- Common CSS Ends -------*/
+
+/*------- Home Page Starts -------*/
+
+  /*------- Desktop Menu Section Starts -------*/
+
+.bg-menu-desktop { display: none; }
+
+	/*------- Desktop Menu Section Ends -------*/
+
+  /*------- Banner Section Starts -------*/
+
+.bg-banner { padding-bottom: 0; }
+.bg-banner,
+.box-banner-info { height: auto; }
+.banner-info { position: static; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; transform: none; }
+.banner-logo > a { margin-bottom: 20px; }
+.banner-logo > a > img { width: 200px; }
+.banner-page-name > h1 { font-size: 3rem; margin-bottom: 20px; }
+.banner-page-name > h1 > span { display: inline; }
+.box-banner-image { -webkit-border-radius: 24px; -moz-border-radius: 24px; -ms-border-radius: 24px; -o-border-radius: 24px; border-radius: 24px; height: 50vh; }
+
+  /*------- Banner Section Ends -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-image > img { margin-bottom: 20px; }
+.about-info > p { margin-bottom: 15px; }
+
+  /*------- About Us Section Ends -------*/
+
+  /*------- Counter Section Starts -------*/
+
+.bg-counter { padding-bottom: 0; }
+.box-counter { margin-bottom: 20px; }
+.counter-name > span { font-size: 2rem; }
+.box-counter > h2 { font-size: 2.7rem; }
+
+  /*------- Counter Section Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.box-gallery { margin-bottom: 20px; }
+.box-gallery-heading > h3 { font-size: 1.8rem; }
+.view-more-gallery { margin-top: 0; }
+
+  /*------- Gallery Section Ends -------*/
+
+  /*------- Footer Section Starts -------*/
+
+.footer-row-border-top-bottom { border-top: 0; }
+.footer-middle-border-lr { border-left: 0; border-right: 0; }
+.footer-useful-links-heading,
+.quick-links-listing { padding-left: 0; }
+.footer-heading > h4 { margin-top: 0; text-align: left; }
+.footer-logo { margin: 30px 0; }
+.footer-contact-address,
+.footer-mob-email,
+.footer-about-desc > p { margin-bottom: 20px; }
+.footer-contact-address > address > p { text-align: left; }
+.footer-contact-address > address > p > span { display: block; }
+.footer-mob-email > p,
+.footer-about-desc > p { text-align: left; }
+.footer-heading-about,
+.footer-heading-follow-us { padding-right: 0; text-align: center; }
+.footer-social-links-listing { justify-content: flex-start; margin-bottom: 20px; }
+.copyright-info > p { margin-top: 20px; text-align: center; }
+
+  /*------- Footer Section Ends -------*/
+
+/*------- Home Page Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.gallery-listing { display: block; margin-bottom: 15px; }
+.gallery-listing > li { display: block; margin: 0 15px 15px 0; padding: 7px 25px; }
+.grid-item { width: 100%; }
+
+  /*------- Gallery Section Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+/*------- Common CSS Starts -------*/
+
+.container-fluid { padding: 20px 15px; }
+.section-heading > h2 { font-size: 2.7rem; margin-bottom: 20px; }
+p { font-size: 1.6rem; text-align: justify; }
+
+/*------- Common CSS Ends -------*/
+
+/*------- Home Page Starts -------*/
+
+  /*------- Desktop Menu Section Starts -------*/
+
+.bg-menu-desktop { display: none; }
+
+	/*------- Desktop Menu Section Ends -------*/
+
+  /*------- Banner Section Starts -------*/
+
+.bg-banner { padding-bottom: 0; }
+.bg-banner,
+.box-banner-info { height: auto; }
+.banner-info { position: static; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; transform: none; }
+.banner-logo > a { margin-bottom: 20px; }
+.banner-logo > a > img { width: 200px; }
+.banner-page-name > h1 { font-size: 3rem; margin-bottom: 20px; }
+.banner-page-name > h1 > span { display: inline; }
+.box-banner-image { -webkit-border-radius: 24px; -moz-border-radius: 24px; -ms-border-radius: 24px; -o-border-radius: 24px; border-radius: 24px; height: 50vh; }
+
+  /*------- Banner Section Ends -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-image > img { margin-bottom: 20px; }
+.about-info > p { margin-bottom: 15px; }
+
+  /*------- About Us Section Ends -------*/
+
+  /*------- Counter Section Starts -------*/
+
+.bg-counter { padding-bottom: 0; }
+.box-counter { margin-bottom: 20px; }
+.counter-name > span { font-size: 2rem; }
+.box-counter > h2 { font-size: 2.7rem; }
+
+  /*------- Counter Section Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.box-gallery { margin-bottom: 20px; }
+.box-gallery-heading > h3 { font-size: 1.8rem; }
+.view-more-gallery { margin-top: 0; }
+
+  /*------- Gallery Section Ends -------*/
+
+  /*------- Footer Section Starts -------*/
+
+.footer-row-border-top-bottom { border-top: 0; }
+.footer-middle-border-lr { border-left: 0; border-right: 0; }
+.footer-useful-links-heading,
+.quick-links-listing { padding-left: 0; }
+.footer-heading > h4 { margin-top: 0; text-align: left; }
+.footer-logo { margin: 30px 0; }
+.footer-contact-address,
+.footer-mob-email,
+.footer-about-desc > p { margin-bottom: 20px; }
+.footer-contact-address > address > p { text-align: left; }
+.footer-contact-address > address > p > span { display: block; }
+.footer-mob-email > p,
+.footer-about-desc > p { text-align: left; }
+.footer-heading-about,
+.footer-heading-follow-us { padding-right: 0; text-align: center; }
+.footer-social-links-listing { justify-content: flex-start; margin-bottom: 20px; }
+.copyright-info > p { margin-top: 20px; text-align: center; }
+
+  /*------- Footer Section Ends -------*/
+
+/*------- Home Page Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.bg-gallery-gp { padding: 20px 15px 0; }
+.gallery-listing { margin-bottom: 15px; }
+.gallery-listing > li { display: inline-block; margin: 0 15px 15px 0; padding: 7px 25px; }
+
+  /*------- Gallery Section Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/*------- Common CSS Starts -------*/
+
+.container-fluid { padding: 30px; }
+.section-heading > h2 { font-size: 3rem; margin-bottom: 30px; }
+p { text-align: justify; }
+
+/*------- Common CSS Ends -------*/
+
+/*------- Home Page Starts -------*/
+
+  /*------- Desktop Menu Section Starts -------*/
+
+.bg-menu-desktop { display: none; }
+
+	/*------- Desktop Menu Section Ends -------*/
+
+  /*------- Banner Section Starts -------*/
+
+.bg-banner { padding-bottom: 0; }
+.bg-banner,
+.box-banner-info { height: auto; }
+.banner-info { position: static; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; transform: none; }
+.banner-logo > a > img { width: 200px; }
+.banner-page-name > h1 { font-size: 3.6rem; margin-bottom: 30px; }
+.banner-page-name > h1 > span { display: inline; }
+.box-banner-image { -webkit-border-radius: 24px; -moz-border-radius: 24px; -ms-border-radius: 24px; -o-border-radius: 24px; border-radius: 24px; height: 75vh; }
+
+  /*------- Banner Section Ends -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-image > img { margin-bottom: 30px; }
+
+  /*------- About Us Section Ends -------*/
+
+  /*------- Counter Section Starts -------*/
+
+.counter-name > span { font-size: 2.2rem; }
+.box-counter > h2 { font-size: 3rem; }
+
+  /*------- Counter Section Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.box-gallery-heading > h3 { font-size: 2rem; }
+.view-more-gallery { margin-top: 0; }
+
+  /*------- Gallery Section Ends -------*/
+
+  /*------- Footer Section Starts -------*/
+
+.bg-footer > .row { margin: 0 -30px; }
+.footer-useful-links-heading,
+.quick-links-listing { padding-left: 15px; }
+.footer-heading > h4 { line-height: 1.6; margin: 30px 0 20px; }
+.footer-logo { margin: 30px 0; }
+.footer-mob-email { margin-bottom: 30px; }
+.footer-heading-about,
+.footer-heading-follow-us,
+.footer-about-desc,
+.footer-social-links-listing { padding-right: 15px; }
+.copyright-info > p { margin-top: 30px; }
+
+  /*------- Footer Section Ends -------*/
+
+/*------- Home Page Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.bg-gallery-gp { padding: 30px 30px 0; }
+.gallery-listing { margin-bottom: 15px; }
+.gallery-listing > li { display: inline-block; margin: 0 15px 15px 0; padding: 7px 25px; }
+
+  /*------- Gallery Section Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+/*------- Common CSS Starts -------*/
+
+.container-fluid { padding: 30px; }
+.section-heading > h2 { font-size: 3rem; margin-bottom: 30px; }
+p { text-align: justify; }
+
+/*------- Common CSS Ends -------*/
+
+/*------- Home Page Starts -------*/
+
+  /*------- Banner Section Starts -------*/
+
+.bg-banner { padding: 0; }
+.banner-logo > a > img { height: 200px; }
+.banner-page-name > h1 { font-size: 3.6rem; }
+
+  /*------- Banner Section Ends -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-image > img { margin-bottom: 30px; }
+
+  /*------- About Us Section Ends -------*/
+
+  /*------- Counter Section Starts -------*/
+
+.counter-name > span { font-size: 2.2rem; }
+.box-counter > h2 { font-size: 3rem; }
+
+  /*------- Counter Section Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.box-gallery-heading > h3 { font-size: 2rem; }
+.view-more-gallery { margin-top: 0; }
+
+  /*------- Gallery Section Ends -------*/
+
+  /*------- Footer Section Starts -------*/
+
+.bg-footer > .row { margin: 0 -30px; }
+.footer-useful-links-heading,
+.quick-links-listing { padding-left: 15px; }
+.footer-heading > h4 { line-height: 1.6; margin: 30px 0 20px; }
+.footer-logo { margin: 30px 0; }
+.footer-mob-email { margin-bottom: 30px; }
+.footer-heading-about,
+.footer-heading-follow-us,
+.footer-about-desc,
+.footer-social-links-listing { padding-right: 15px; }
+.copyright-info > p { margin-top: 30px; }
+
+  /*------- Footer Section Ends -------*/
+
+/*------- Home Page Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+  /*------- Gallery Section Starts -------*/
+
+.bg-gallery-gp { padding: 30px 30px 0; }
+.gallery-listing { margin-bottom: 15px; }
+.gallery-listing > li { display: inline-block; margin: 0 15px 15px 0; padding: 7px 25px; }
+
+  /*------- Gallery Section Ends -------*/
+
+/*------- Gallery Page Ends -------*/
+
+}
