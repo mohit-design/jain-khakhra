@@ -53,11 +53,17 @@ p { color: var(--primary-color); font: 1.8rem/1.7 "Mulish-Regular"; }
 
 /*------- Home Page Starts -------*/
 
-  /*------- Mobile Logo and Burger Menu Section Starts -------*/
+  /*------- Hamburger Menu Section Starts -------*/
 
+.bg-hamburger-menu { display: none; }
 
+  /*------- Hamburger Menu Section Ends -------*/
 
-	/*------- Mobile Logo and Burger Menu Section Ends -------*/
+  /*------- Mobile Menu Section Starts -------*/
+
+.navbar-menu-mobile { display: none; }
+
+	/*------- Mobile Menu Section Ends -------*/
 
   /*------- Desktop Menu Section Starts -------*/
 
