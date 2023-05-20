@@ -120,7 +120,8 @@ p { font-size: 1.6rem; text-align: justify; }
   /*------- Gallery Section Starts -------*/
 
 .gallery-listing { display: block; margin-bottom: 15px; }
-.gallery-listing > li { display: block; margin: 0 15px 15px 0; padding: 7px 25px; }
+.gallery-listing > li { display: block; margin: 0 0 15px 0; padding: 7px 25px; }
+.gallery-listing > li:last-child { margin-bottom: 20px; }
 .grid-item { width: 100%; }
 
   /*------- Gallery Section Ends -------*/
