@@ -1,4 +1,8 @@
 $(function() {
+  // AOS Animation JS
+  AOS.init({
+    easing: 'ease-in-out-sine'
+  });
   // Mobile Menu JS
   $(".hamburger-menu").click(function() {
     $("body").toggleClass("active");
