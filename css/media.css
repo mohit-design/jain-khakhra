@@ -115,7 +115,18 @@ p { font-size: 1.6rem; text-align: justify; }
 
 /*------- Home Page Ends -------*/
 
-/*------- Gallery Page Ends -------*/
+/*------- About Us Page Starts -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-info-more-ap { margin: 15px 0 0; }
+.about-info-more-ap > p { margin-bottom: 15px; }
+
+  /*------- About Us Section Ends -------*/
+
+/*------- About Us Page Ends -------*/
+
+/*------- Gallery Page Starts -------*/
 
   /*------- Gallery Section Starts -------*/
 
@@ -259,6 +270,17 @@ p { font-size: 1.6rem; text-align: justify; }
 
 /*------- Home Page Ends -------*/
 
+/*------- About Us Page Starts -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-info-more-ap { margin: 15px 0 0; }
+.about-info-more-ap > p { margin-bottom: 15px; }
+
+  /*------- About Us Section Ends -------*/
+
+/*------- About Us Page Ends -------*/
+
 /*------- Gallery Page Ends -------*/
 
   /*------- Gallery Section Starts -------*/
@@ -390,6 +412,16 @@ p { text-align: justify; }
 
 /*------- Home Page Ends -------*/
 
+/*------- About Us Page Starts -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-info-more-ap { margin: 20px 0 0; }
+
+  /*------- About Us Section Ends -------*/
+
+/*------- About Us Page Ends -------*/
+
 /*------- Gallery Page Ends -------*/
 
   /*------- Gallery Section Starts -------*/
@@ -472,6 +504,16 @@ p { text-align: justify; }
   /*------- Footer Section Ends -------*/
 
 /*------- Home Page Ends -------*/
+
+/*------- About Us Page Starts -------*/
+
+  /*------- About Us Section Starts -------*/
+
+.about-info-more-ap { margin: 20px 0 0; }
+
+  /*------- About Us Section Ends -------*/
+
+/*------- About Us Page Ends -------*/
 
 /*------- Gallery Page Ends -------*/
 

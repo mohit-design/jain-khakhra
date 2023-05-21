@@ -221,6 +221,9 @@ a[data-fancybox="images"]:hover > .box-gallery-heading { opacity: 1; -webkit-tra
   /*------- About Us Section Starts -------*/
 
 .about-info-ap > p:last-child { margin-bottom: 0; }
+.about-info-more-ap { margin: 50px 0 0; }
+.about-info-more-ap > p { margin-bottom: 20px; }
+.about-info-more-ap > p:last-child { margin-bottom: 0; }
 
   /*------- About Us Section Ends -------*/
 
