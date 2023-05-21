@@ -116,6 +116,14 @@ p { color: var(--primary-color); font: 1.8rem/1.7 "Mulish-Regular"; }
 
   /*------- Counter Section Ends -------*/
 
+  /*------- Products Section Starts -------*/
+
+.box-products { margin-bottom: 30px; }
+.box-products > h4 { -webkit-border-radius: 14px; -moz-border-radius: 14px; -ms-border-radius: 14px; -o-border-radius: 14px; border-radius: 14px; box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px; color: var(--primary-color); font: 2.4rem/1.4 "Mulish-Bold"; padding: 20px; text-align: center; -webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; -o-transition: 0.5s ease; transition: 0.5s ease; }
+.box-products > h4:hover { -webkit-transform: scale(1.05); -moz-transform: scale(1.05); -ms-transform: scale(1.05); -o-transform: scale(1.05); transform: scale(1.05); }
+
+  /*------- Products Section Ends -------*/
+
   /*------- Gallery Section Starts -------*/
 
 .box-gallery { margin-bottom: 30px; }
@@ -228,6 +236,21 @@ a[data-fancybox="images"]:hover > .box-gallery-heading { opacity: 1; -webkit-tra
   /*------- About Us Section Ends -------*/
 
 /*------- About Us Page Ends -------*/
+
+/*------- Products Page Ends -------*/
+
+  /*------- Products Section Starts -------*/
+
+.bg-products-pp { padding-bottom: 0; }
+.products-listing-pp { margin-bottom: 50px; }
+.products-listing-pp > li { color: var(--primary-color); display: block; font: 1.8rem/1.4 "Mulish-SemiBold"; margin-bottom: 10px; padding-left: 20px; position: relative; z-index: 1; }
+.products-listing-pp > li:last-child { margin-bottom: 0; }
+.products-listing-pp > li::before { border: 1px solid var(--primary-color); -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%; content: ""; display: block; height: 10px; left: 0; position: absolute; top: 7px; -webkit-transition: 0.5s ease; -moz-transition: 0.5s ease; -ms-transition: 0.5s ease; -o-transition: 0.5s ease; transition: 0.5s ease; width: 10px; z-index: 1; }
+.products-listing-pp > li:hover::before { background-color: var(--primary-color); }
+
+  /*------- Products Section Ends -------*/
+
+/*------- Products Page Ends -------*/
 
 /*------- Gallery Page Ends -------*/
 

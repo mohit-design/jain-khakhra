@@ -126,6 +126,20 @@ p { font-size: 1.6rem; text-align: justify; }
 
 /*------- About Us Page Ends -------*/
 
+/*------- Products Page Ends -------*/
+
+  /*------- Products Section Starts -------*/
+
+.bg-products-pp { padding-bottom: 0; }
+.box-products { margin-bottom: 20px; }
+.box-products > h4 { font-size: 2rem; padding: 20px 15px; }
+.products-listing-pp { margin-bottom: 20px; }
+.products-listing-pp > li { font-size: 1.6rem; }
+
+  /*------- Products Section Ends -------*/
+
+/*------- Products Page Ends -------*/
+
 /*------- Gallery Page Starts -------*/
 
   /*------- Gallery Section Starts -------*/
@@ -281,6 +295,20 @@ p { font-size: 1.6rem; text-align: justify; }
 
 /*------- About Us Page Ends -------*/
 
+/*------- Products Page Ends -------*/
+
+  /*------- Products Section Starts -------*/
+
+.bg-products-pp { padding-bottom: 0; }
+.box-products { margin-bottom: 20px; }
+.box-products > h4 { font-size: 2rem; padding: 20px 15px; }
+.products-listing-pp { margin-bottom: 20px; }
+.products-listing-pp > li { font-size: 1.6rem; }
+
+  /*------- Products Section Ends -------*/
+
+/*------- Products Page Ends -------*/
+
 /*------- Gallery Page Ends -------*/
 
   /*------- Gallery Section Starts -------*/
@@ -422,6 +450,19 @@ p { text-align: justify; }
 
 /*------- About Us Page Ends -------*/
 
+/*------- Products Page Ends -------*/
+
+  /*------- Products Section Starts -------*/
+
+.bg-products-pp { padding-bottom: 0; }
+.box-products { margin-bottom: 20px; }
+.box-products > h4 { font-size: 2rem; }
+.products-listing-pp { margin-bottom: 30px; }
+
+  /*------- Products Section Ends -------*/
+
+/*------- Products Page Ends -------*/
+
 /*------- Gallery Page Ends -------*/
 
   /*------- Gallery Section Starts -------*/
@@ -514,6 +555,19 @@ p { text-align: justify; }
   /*------- About Us Section Ends -------*/
 
 /*------- About Us Page Ends -------*/
+
+/*------- Products Page Ends -------*/
+
+  /*------- Products Section Starts -------*/
+
+.bg-products-pp { padding-bottom: 0; }
+.box-products { margin-bottom: 20px; }
+.box-products > h4 { font-size: 2rem; padding: 20px 15px; }
+.products-listing-pp { margin-bottom: 30px; }
+
+  /*------- Products Section Ends -------*/
+
+/*------- Products Page Ends -------*/
 
 /*------- Gallery Page Ends -------*/
 
